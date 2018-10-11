@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+main {
+  border: 1px solid gray;
+}
+svg {
+  border: 1px solid blue;
+}
+
+.circle-node {
+  stroke: #444;
+  stroke-width: 1px;
+  fill: #ddd;
+  opacity: 0.5;
+}
